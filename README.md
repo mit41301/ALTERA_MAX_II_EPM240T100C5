@@ -13,5 +13,7 @@
 ## EPM570 SEG SW LED
 <img width="2976" height="1984" alt="33_EPM570_SW_LED" src="https://github.com/user-attachments/assets/c8ee17a5-f45e-4ba2-a0e9-c014503f61b0" />
 
+## EPM570 SEG SW LED TYPE-C, 50MHz, USB Blast
+
 <img width="982" height="654" alt="33_EPM570_LED_SW" src="https://github.com/user-attachments/assets/4e8e4cd0-dd4a-4714-ab75-aa84f12e766f" />
 
